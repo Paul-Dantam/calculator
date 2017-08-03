@@ -17,8 +17,7 @@
     font-weight:100;
 }
 
-.button1, .button2, .button3, .output{
-    height: 3rem;
+.button, .screen{
     flex-basis:24%;
     padding: 1rem 0 1rem 0;
     display:flex;
@@ -30,16 +29,16 @@
     color:#EDF6EC;
 }
 
-.button2{
+.operator{
     background-color:#83C178;
     color:black;
 }
 
-.button2:hover{
+.operator:hover{
     color:#EDF6EC;
 }
 
-.output{
+.screen{
     flex-basis:73.3%;
 }
 
